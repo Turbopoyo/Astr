@@ -1,5 +1,2 @@
 # Astr
-Astr was a ksp planet pack
-it is kinda empty and buggy
-it is abandoned since i'm to stupid to make good looking atmospheres
-my idea was good but i don't know how i managed to get such bad results
+okay im relaunching this project, i used to want a whole star system but i guess i'll just settle on a dwarf planet for now.
